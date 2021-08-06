@@ -1,0 +1,73 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+#guviLogo{
+    margin-top: 22px;
+    margin-left: 10px;
+    height:40px ;
+    width: 90px;
+}
+#guviLogo:hover{
+    cursor: pointer;
+}
+#firstLayer{
+    width: auto;
+    height: 80px;
+    display: flex;
+    flex-wrap: wrap;
+    box-shadow: 0 10px 10px lightgrey; 
+}
+#menu{
+    width: auto;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+     margin-left: 465px; 
+}
+#firstColumn{
+    margin-top: 25px;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-weight: bold;
+    font-size: 15px;
+    color: grey;  
+}
+#firstColumn:hover{
+    cursor: pointer;
+}
+#secondColumn{
+    margin-top: 25px;
+    margin-left: 25px;
+    margin-right: 20px;
+    font-size: 14px;
+    font-weight: bold;
+    color:#66a745;
+}
+#secondLayer{
+    background-color: rgb(243, 243, 243);
+    height: 65px;
+    margin-top: 30px;
+    text-align: center;
+    color: rgb(52, 127, 197);
+    font-size: 30px;
+}
+#infoLayer{
+    margin-top: 10px;
+    margin-left: 120px;
+    font-size: 20px;
+}
+#ques{
+    font-weight: bold;
+}
+#line{
+    display: flex;
+    flex-wrap: wrap;
+}
+#name{
+    font-weight: bold;
+}
+#img{
+    width: 30px;
+    height: 30px;
+}
